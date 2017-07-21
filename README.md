@@ -3,6 +3,9 @@ Simple Item Based Movie Recommender
 
 This Recommender is based on Movie Lens 1M Dataset. [Get it here](https://grouplens.org/datasets/movielens/1m/)
 
+Python 3.6.0. needed.
+
+
 ### Data preparation instructions:
 
 When you have downloaded data, here are a several things to fix:
